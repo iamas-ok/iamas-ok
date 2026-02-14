@@ -50,7 +50,6 @@ I am an aspiring Python developer, Data Analyst and Data Engineer with a strong 
 - 🧠 Improving Problem-Solving Skills  
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -64,12 +63,10 @@ I am an aspiring Python developer, Data Analyst and Data Engineer with a strong 
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamas-ok&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
-</p>
-
 ---
 
-⭐ *Turning data into insights, and insights into impact.*
+### ✍️ Dev Quote           
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" />
+</p>
